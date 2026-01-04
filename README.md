@@ -1,0 +1,82 @@
+# Avicii – Somewhere In Stockholm
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.21] That's me right there on the corner
+[00:17.18] Listening to Wu in my Walkman
+[00:19.07] Neon lights hit the water
+[00:20.79] Reflecting the city I'm lost in
+[00:22.71] That's me right there on the corner
+[00:24.60] I one day would be leaving
+[00:26.52] For a dream that I didn't have
+[00:28.29] That I'd one day would believe in
+[00:30.16] Strange how the same place I ran from's
+[00:31.82] The same place I think of whenever the chance comes
+[00:34.23] It's inevitable cause wherever I go
+[00:51.73] 
+[00:35.95] I hear echoes of a thousand screams
+[00:40.80] As I lay me down to sleep
+[00:44.61] There's a black hole deep inside of me
+[00:48.54] Reminding me
+[00:51.40] That I lost my backbone
+[00:55.34] Somewhere in Stockholm
+[00:58.92] I lost my backbone
+[01:02.57] Somewhere in Stockholm
+[01:13.57] 
+[01:07.42] I'm from a place where we never
+[01:09.53] Openly show our emotions
+[01:11.42] We drown our sorrows in bottomless bottles
+[01:13.63] And leave them to float in the ocean
+[01:15.11] I'm from a place where we never
+[01:17.04] Seperate people from people
+[01:18.98] Some generalize
+[01:20.31] But in general I still believe that we are treated as equals
+[01:22.88] My father, my mother, my sister, my brother
+[01:24.98] My friends and my family's there
+[01:26.45] My hope, and my money, my innocence in a sense
+[01:28.84] Almost lost everything here
+[01:42.34] 
+[01:30.19] Right where I was founded
+[01:32.44] Is right where I'll be found dead
+[01:34.11] These streets are my backbone
+[01:36.09] Until I get back home
+[01:46.59] 
+[01:37.05] I hear echoes of a thousand screams
+[01:41.22] As I lay me down to sleep
+[01:44.62] There's a black hole deep inside of me
+[01:48.24] Reminding me
+[01:51.28] That I lost my backbone
+[01:54.94] Somewhere in Stockholm
+[01:58.78] I lost my backbone
+[02:02.64] Somewhere in Stockholm
+[02:13.64] 
+[02:06.44] I'm not alone, I am the fire that burns
+[02:09.50] Not in the city, but out in the burbs
+[02:11.39] A river that's dying of thirst
+[02:13.25] I am a reverend lying in church
+[02:28.75] 
+[02:15.15] A crack in the pattern
+[02:17.01] A miracle waiting to happen
+[02:19.13] A promise that never was kept
+[02:20.66] One of those moments you'll never forget
+[02:40.66] 
+[02:22.55] I am that feeling inside
+[02:24.45] That one we all know but can't really describe
+[02:26.30] I am the blood spill, but I'm in love still
+[02:47.80] 
+[02:29.36] But I'm not alone (Somewhere in Stockholm)
+[02:32.10] Don't have to get by on my own
+[02:33.69] I'm finally home
+[02:35.56] Hemma i Stockholm
+[02:40.08] (Där jag hör hemma)
+[02:49.58] 
+[02:44.27] I hear echoes of a thousand screams
+[02:48.52] As I lay me down to sleep
+[02:51.92] There's a black hole deep inside of me
+[02:55.97] Reminding me
+[02:59.16] That I lost my backbone
+[03:02.84] Somewhere in Stockholm
+[03:06.26] I lost my backbone
+[03:10.21] Somewhere in Stockholm
+```
