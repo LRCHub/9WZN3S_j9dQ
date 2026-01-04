@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Somewhere In Stockholm",
+  "base_artist": "Avicii",
+  "createdAt": "2026-01-04T16:23:15.647361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somewhere In Stockholm",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_Somewhere_In_Stockholm_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somewhere in Stockholm",
+      "artist": "Avicii feat. Daniel Adams-Ray",
+      "has_synced": true,
+      "path": "select/02_Somewhere_in_Stockholm_Avicii_feat._Daniel_Adams-Ray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somewhere In Stockholm",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Somewhere_In_Stockholm_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somewhere In Stockholm",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/04_Somewhere_In_Stockholm_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anropar himlen (Somewhere in Stockholm)",
+      "artist": "Marie Nilsson-Lind",
+      "has_synced": true,
+      "path": "select/05_Anropar_himlen_(Somewhere_in_Stockholm)_Marie_Nilsson-Lind.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "somewhere in stockholm",
+      "artist": "avicii -ray",
+      "has_synced": true,
+      "path": "select/06_somewhere_in_stockholm_avicii_-ray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somewhere In Stockholm [feat. Daniel Adams-Ray]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_Somewhere_In_Stockholm_[feat._Daniel_Adams-Ray]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somewhere In Stockholm [feat. Daniel Adams",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_Somewhere_In_Stockholm_[feat._Daniel_Adams_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somewhere In Stockholm\u0000",
+      "artist": "Avicii\u0000",
+      "has_synced": true,
+      "path": "select/09_Somewhere_In_Stockholm\u0000_Avicii\u0000.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somewhere In Stockholm",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_Somewhere_In_Stockholm_Avicii.txt"
+    }
+  ]
+}
